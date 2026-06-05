@@ -9,7 +9,7 @@
 
 ### Languages & Tools
 
-* **Programming Languages:** Python, SQL, JavaScript, C#, Java, R, VBA
+* **Programming Languages:** Python, SQL, JavaScript, C#, C++, Java, R, VBA
 * **Web Development:** HTML, CSS, React, Django, .NET
 * **Data & Analytics:** Power BI, Excel, Pandas, Jupyter Notebook, SAS Studio, Tableau
 * **Databases:** PostgreSQL, SQL Server
