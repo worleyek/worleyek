@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi, I'm Emily!
 
-<!--
-**worleyek/worleyek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* 🇺🇸 Data analyst and developer from Tennessee
+* 🎓 B.S. in Actuarial Science with a minor in Data Science
+* 🌱 Started learning web development at age 12
+* 🐾 Mother of two rescue cats and caretaker of a cat colony
+* 💛 Passionate about data analytics, mathematics, web development, film, and animal welfare
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages & Tools
+
+* **Programming Languages:** Python, SQL, JavaScript, C#, Java, R, VBA
+* **Web Development:** HTML, CSS, React, Django, .NET
+* **Data & Analytics:** Power BI, Excel, Pandas, Jupyter Notebook, SAS Studio
+* **Databases:** PostgreSQL, SQL Server
+* **Development Tools:** Git, GitHub, Visual Studio, IntelliJ IDEA, Replit
