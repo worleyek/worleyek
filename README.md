@@ -13,4 +13,4 @@
 * **Web Development:** HTML, CSS, React, Django, .NET
 * **Data & Analytics:** Power BI, Excel, Pandas, Jupyter Notebook, SAS Studio, Tableau
 * **Databases:** PostgreSQL, SQL Server
-* **Development Tools:** Git, GitHub, Visual Studio, IntelliJ IDEA, Replit
+* **Development Tools:** Git, GitHub, Visual Studio, Replit
